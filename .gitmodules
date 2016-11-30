@@ -1,0 +1,3 @@
+[submodule "sqsd"]
+	path = sqsd
+	url = https://github.com/mozart-analytics/sqsd.git
